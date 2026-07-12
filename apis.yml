@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://nova.bitcambio.com.br/api/v3/docs#a-public
 common:
+  - type: DomainSecurity
+    url: security/bitcambio-domain-security.yml
   - type: Website
     url: https://nova.bitcambio.com.br/api/v3/docs#a-public
   - type: PublicAPIsListing
