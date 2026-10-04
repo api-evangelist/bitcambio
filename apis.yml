@@ -39,7 +39,6 @@ apis:
   - name: Bitcambio
     description: "Get the list of all traded assets in the exchange"
     humanURL: https://nova.bitcambio.com.br/api/v3/docs#a-public
-    baseURL: https://nova.bitcambio.com.br/api/v3/docs#a-public
     tags:
       - Cryptocurrency
     properties:
